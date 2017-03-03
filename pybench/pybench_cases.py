@@ -3,7 +3,7 @@ import pybench, sys
 pythons = [
     (1, 'C:\python33\python'),
     (0, 'C:\python27\python'),
-    (0, 'C:\pypy\pypy-1.9\pypy')
+    (0, 'C:\pypy\pypy-1.9\pypy'),
 ]
 
 stmts = [
